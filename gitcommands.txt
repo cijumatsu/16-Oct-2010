@@ -1,0 +1,14 @@
+$ git config color.branch auto
+$ git config color.diff auto
+$ git config color.interactive auto
+$ git config color.status auto
+Or, you can set all of them on with the color.ui option:
+
+$ git config color.ui true
+
+
+EDITOR UNSETTING AND SETTING
+//
+git config --global --unset-all core.editor
+git config --unset-all core.editor
+git config --global core.editor "vim -f"
