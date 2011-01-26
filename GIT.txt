@@ -1,3 +1,5 @@
+//WHATEVER TESTING COLORS
+
 git config //who we are and colors
 
 mkdir SomeProject
